@@ -131,4 +131,4 @@ This simulates Tier 1 SOC analyst triage.
 
 ## 🙌 Acknowledgment
 
-This lab build was inspired by educational DFIR-focused content and expanded into a customized environment with AI-driven automation enhancements.
+This lab build was inspired by educational MyDFIR Youtube Channel @https://www.youtube.com/@MyDFIR-focused it helped me expand into a customized environment with AI-driven automation enhancements.
